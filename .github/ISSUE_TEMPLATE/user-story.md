@@ -1,9 +1,10 @@
 ---
 name: User Story
-description: Use this template to create a new user story.
+about: This template is for creating user stories
 title: ''
 labels: ''
 assignees: ''
+
 ---
 
 **As a** [role]  
